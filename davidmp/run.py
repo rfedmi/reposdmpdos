@@ -3,6 +3,9 @@
 Created on 17/2/2015
 
 @author: PC06
+
+Primer cambio en el proyecto de Itsae
+
 '''
 from include import app
 if __name__ == '__main__':
